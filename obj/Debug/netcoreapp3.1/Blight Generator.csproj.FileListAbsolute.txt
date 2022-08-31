@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Blight Generator\bin\Debug\netcoreapp3.1\Blight Generator.exe
+C:\Users\Owner\source\repos\Blight Generator\bin\Debug\netcoreapp3.1\Blight Generator.deps.json
+C:\Users\Owner\source\repos\Blight Generator\bin\Debug\netcoreapp3.1\Blight Generator.runtimeconfig.json
+C:\Users\Owner\source\repos\Blight Generator\bin\Debug\netcoreapp3.1\Blight Generator.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Blight Generator\bin\Debug\netcoreapp3.1\Blight Generator.dll
+C:\Users\Owner\source\repos\Blight Generator\bin\Debug\netcoreapp3.1\Blight Generator.pdb
+C:\Users\Owner\source\repos\Blight Generator\obj\Debug\netcoreapp3.1\Blight Generator.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Blight Generator\obj\Debug\netcoreapp3.1\Blight Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Blight Generator\obj\Debug\netcoreapp3.1\Blight Generator.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Blight Generator\obj\Debug\netcoreapp3.1\Blight Generator.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Blight Generator\obj\Debug\netcoreapp3.1\Blight Generator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Blight Generator\obj\Debug\netcoreapp3.1\Blight Generator.dll
+C:\Users\Owner\source\repos\Blight Generator\obj\Debug\netcoreapp3.1\Blight Generator.pdb
+C:\Users\Owner\source\repos\Blight Generator\obj\Debug\netcoreapp3.1\Blight Generator.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Blight Generator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Owner\source\repos\Blight Generator\obj\Debug\netcoreapp3.1\Blight Generator.csproj.CopyComplete
